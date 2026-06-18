@@ -45,6 +45,7 @@ The latest playable version can be downloaded from the **Releases** section of t
 ## 🚀 Project Status
 
 **Status:** ✅ Completed
+
 **Release:** 2026
 
 This project has reached a playable release and serves as one of the developer's completed game projects.
