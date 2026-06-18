@@ -50,7 +50,9 @@ This project has reached a playable release and serves as one of the developer's
 
 ## 👨‍💻 Developer
 
-**Yeza Putra Fatekhah**## 🤝 Credits
+**Yeza Putra Fatekhah**
+
+## 🤝 Credits
 
 ### 🎨 2D Background Artist
 - Fifin Kurniawan
