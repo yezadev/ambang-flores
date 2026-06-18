@@ -72,6 +72,7 @@ This project has reached a playable release and serves as one of the developer's
 ## 📄 License
 
 This repository is provided for portfolio and showcase purposes.
+
 The game's source code, story, and project design are owned by **Yeza Putra Fatekhah**.
 
 Visual assets created by **Fifin Kurniawan** (2D Background Artist) and **Dwika Bagus Mahendra** (2D Character Artist) remain the intellectual property of their respective creators and are used with permission.
