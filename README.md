@@ -51,7 +51,10 @@ This project has reached a playable release and serves as one of the developer's
 ## 👨‍💻 Developer
 
 **Yeza Putra Fatekhah**
-
+- Project Lead
+- Programmer
+- Narrative Designer
+  
 ## 🤝 Credits
 
 ### 🎨 2D Background Artist
@@ -69,4 +72,4 @@ This project has reached a playable release and serves as one of the developer's
 ## 📄 License
 
 This repository is provided for portfolio and showcase purposes.
-All rights to the game's assets, story, and related content are reserved by the author unless otherwise stated.
+The visual assets included in this project are used with permission from their respective creators and remain the intellectual property of the original artists unless otherwise stated.
