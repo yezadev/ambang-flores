@@ -50,9 +50,19 @@ This project has reached a playable release and serves as one of the developer's
 
 ## 👨‍💻 Developer
 
-**Yeza Putra Fatekhah**
+**Yeza Putra Fatekhah**## 🤝 Credits
 
-GitHub: https://github.com/yezadev
+### 🎨 2D Background Artist
+- Fifin Kurniawan
+- Instagram: https://www.instagram.com/fin.fifin_/
+
+### 🧑‍🎨 2D Character Artist
+- Dwika Bagus Mahendra
+- Instagram: https://www.instagram.com/dudu_b.m/
+
+### 🧪 Game Testers
+- Apta Kiar
+- Instagram: https://www.instagram.com/aptkiar/
 
 ## 📄 License
 
