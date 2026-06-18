@@ -8,6 +8,25 @@
 
 The project was developed as an independent game with a strong focus on narrative, atmosphere, and local context.
 
+## 📸 Screenshots
+
+> Replace the placeholders below with your uploaded screenshots.
+
+### Main Menu
+
+<img width="1366" height="768" alt="main menu" src="https://github.com/user-attachments/assets/dd3d146d-5372-4d73-9d66-b6a3f932cf8b" />
+
+
+### Gameplay
+
+<img width="1366" height="768" alt="gameplay" src="https://github.com/user-attachments/assets/8328f5f8-89fe-4a61-8c6f-d0bbbfd2d783" />
+
+
+### Story Scene
+
+<img width="1366" height="768" alt="story scene" src="https://github.com/user-attachments/assets/1af314e0-e90c-49b4-944f-4f25681f9e69" />
+
+
 ## ✨ Features
 
 * 📚 Story-driven visual novel experience
