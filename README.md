@@ -10,8 +10,6 @@ The project was developed as an independent game with a strong focus on narrativ
 
 ## 📸 Screenshots
 
-> Replace the placeholders below with your uploaded screenshots.
-
 ### Main Menu
 
 <img width="1366" height="768" alt="main menu" src="https://github.com/user-attachments/assets/dd3d146d-5372-4d73-9d66-b6a3f932cf8b" />
